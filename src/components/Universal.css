@@ -1,0 +1,9 @@
+.universal {
+  max-width: 1024px;
+  margin: auto;
+}
+
+.universal header {
+  font-size: 120%;
+  margin: 20px 0;
+}

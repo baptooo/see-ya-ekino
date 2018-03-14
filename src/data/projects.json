@@ -1,0 +1,130 @@
+[
+  {
+    "episode": 1,
+    "title": "A new Renau’pe",
+    "content": [
+      "Il y a 4 ans, dans un open-space fort fort orange avec une moquette nappée de café froid.",
+      "Le 17 février 2014 embarquement pour la station intersidérale Formulon 4 où une pluie de champs de formulaires fait rage au sein de la galaxie Renau'pe. Le commandant Loulou aux manettes prévoit une mise en production imminente !"
+    ],
+    "team": [
+      "Loulou",
+      "Gad",
+      "Amine",
+      "Kevin N",
+      "Laurent"
+    ]
+  },
+  {
+    "episode": 1.5,
+    "title": "A new topRenau’pe",
+    "content": [
+      "La tempête fait rage au sein du navire myRenau'pe 8 qui décide de se détacher de son réacteur topRenau'pe 2 afin qu’il puisse s’envoler en autonomie complète grâce au cher et estimé commandant Matthieu P !"
+    ],
+    "asset": "renault",
+    "team": [
+      "Matthieu P",
+      "Clément S",
+      "Stéphane S",
+      "Mikael B",
+      "Mathieu M",
+      "Micka D",
+      "Josiane",
+      "Glenn"
+    ]
+  },
+  {
+    "episode": 2,
+    "title": "DiscoWork",
+    "content": [
+      "Pour la commémoration du 105ème anniversaire de la Chancelière suprême de la galaxie Méditérannée 6, une tablette musicale est commandée afin d’ambiancer comme il se doit tout les participants de l’évènement.",
+      "DJ set, crossFade, playlists de l’enfer (sauvés grâce à React…) sont de mise et transportent les hôtes vers des univers musicaux inédits !"
+    ],
+    "team": [
+      "Lucas",
+      "Christophe",
+      "Joël",
+      "Mikael B"
+    ]
+  },
+  {
+    "episode": 3,
+    "title": "The empire agricole strikes back",
+    "content": [
+      "Une matinée de Mai, embarquement de nouveau avec le commandant Loulou pour une mission à durée indéterminée ayant pour objectif de relayer l’équipage précédent qui terminait le Lot 1 de l’application CA-6.",
+      "Cette fois nous sommes accompagnés de l'expert en expérience utilisateur des habitants de la planète d'En... Endor ? HODOR !!"
+    ],
+    "asset": "hodor",
+    "team": [
+      "Loulou",
+      "David G",
+      "Piwaï",
+      "Hodor",
+      "Maëlle",
+      "Julien H"
+    ]
+  },
+  {
+    "episode": 4,
+    "title": "The return of the « assureur » ",
+    "content": [
+      "Août, la mission CA-6 est un succès ! Nous sommes sollicités pour réaliser la nouvelle mission : code CanalDirect.",
+      "Si vous l’acceptez, vous serez en charge de révolutionner les codes de l’assurance spatiale avec notre nouveau pilote « Hippo » "
+    ],
+    "asset": "hippo",
+    "team": [
+      "Loulou",
+      "Daniel",
+      "David G",
+      "Fred",
+      "Mathieu M",
+      "Hamza",
+      "Hodor",
+      "Maëlle",
+      "Marwen"
+    ]
+  },
+  {
+    "episode": 5,
+    "title": "The chromecast awakens",
+    "content": [
+      "Départ de la station Montparnasse pour rejoindre Issy 42 où je retrouve le mercenaire Julien H en compagnie de l’équipe en charge de la diffusion des programmes télévisuels de l’univers."
+    ],
+    "team": [
+      "Julien H",
+      "Guillaume B",
+      "Ludovic M",
+      "Valentin D",
+      "Kevin S (black ops)",
+      "Toute l’équipe d’Issy 42"
+    ]
+  },
+  {
+    "episode": 6,
+    "title": "Thank you all",
+    "content": [
+      "Ces 4 années passés chez ekino ont été vraiment riches professionnellement mais aussi humainement, c'est pourquoi je tenais à vous remercier sincèrement !"
+    ],
+    "special": true,
+    "team": [
+      "Les RH - merci pour votre bonne humeur et votre efficacité ! remerciement spécial à Widad et Clémence pour les supers recrutements et les formations front !",
+      "Hotline - merci pour tout vous êtes au top ne changez rien !",
+      "Data - remerciement spécial à Alexandre pour ta bonne humeur et pour les super side-projects qu'on a pu faire je suis très fier de notre collaboration !",
+      "UX/UI - beaucoup de nouvelles têtes pour moi — \"plus gros le logo svp\" \"Hodor !\"",
+      "Système - merci pour slack et les pages gitlab j'en aurai profité un petit peu.",
+      "Qualité - prend bien soin de la qualité Delphine, merci pour tout !",
+      "Java - j'ai confiance un jour il y aura une update avec des features #trololo, merci pour tout !",
+      "Php - merci pour tout et remerciement spécial à Hugo pour ta bonne humeur et tes super jeux de mots !",
+      "Node - fidèles compagnons qui entretiennent avec le front la JSFatigue ! remerciement spécial à Raphaël Benitte j'ai adoré échangé un max de sujets de veille ou autre avec toi, à bientôt !",
+      "Bordeaux - vous avez tant grandi, quelle belle aventure vous menez ! bonne continuation !",
+      "Matthieu Marseille - Je te passe le flambeau et te souhaite d'accomplir tout ce que tu souhaiteras avec cette superbe équipe front !"
+    ]
+  },
+  {
+    "episode": 7,
+    "title": "Luke, I am your CTO",
+    "content": [
+      "Merci Thomas pour le bout de chemin que j'ai pu faire à tes côtés, grâce à toi j'ai pu grandir sur beaucoup d'aspects techniques ! Docker n'a plus de secret pour moi !",
+      "Prend soin de toi et du front !"
+    ]
+  }
+]

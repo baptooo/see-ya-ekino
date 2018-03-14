@@ -1,0 +1,24 @@
+{
+  "name": "see-ya-ekino",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-snap": "^1.11.4",
+    "surge": "^0.20.1"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && react-snap",
+    "deploy": "yarn build && surge -p build -d see-ya-ekino.surge.sh",
+    "teardown": "surge teardown see-ya-ekion.surge.sh",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

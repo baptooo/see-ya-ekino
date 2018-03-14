@@ -1,0 +1,28 @@
+.disclaimer {
+  padding: 80px;
+  max-width: 800px;
+  margin: auto;
+  font-size: 120%;
+}
+
+.disclaimer h1 {
+  font-size: 3em;
+  margin: 0;
+}
+
+.article {
+  margin: 40px 0;
+}
+
+.separator {
+  border-width: 1px 0 0 0;
+  border-color: black;
+}
+
+.start {
+  text-align: center;
+}
+
+.start a {
+
+}
